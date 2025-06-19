@@ -67,6 +67,4 @@ describe('Free Bets Page Automation', () => {
   it('should validate CTA opens in new tab with correct URL', () => {
     freeBetsPage.verifyCtaOpensNewTab();
   });
-
-
 });
